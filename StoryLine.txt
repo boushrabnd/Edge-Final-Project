@@ -41,6 +41,9 @@ What is that word?
 (1) heaven
 (2) pizza
 
-Scene-2/ 2
+Scene-1/ 1.2.1
+"Heaven, I'm in heaven .. And my heart beats so that I can hardly speak... And I seem to find the happiness I seek when we're out together dancing cheek to cheek.
+" That song rang in {character}'s mind. It was a wedding, a tall man and {character}'s best friend.
+Scene-2/ 2 
 
 
