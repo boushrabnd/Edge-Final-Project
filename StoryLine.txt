@@ -1,49 +1,16 @@
 
-Scene-0/ {Character} woke up this morning, after having a terrible nightmare, feeling dizzy and unstable. {Gender} tried to remember what happened the night before.
-Will {gender} remember?
-Type (1) for yes (1.1)
-Type (2) for no  (1.2)
+0#0#{Character} woke up this morning, after having a terrible nightmare, feeling dizzy and unstable. {Gender} tried to remember what happened the night before. # Will {gender} remember? yes or no? #1#6
 
-Scene-1/ 1.1 Loud cars. Bright lights. It's a busy night in the city. {Gender} was looking for someone. {Gender} makes a short call which drove {Gender} crazily mad. 
-Who was {Character} talking to?
-Type (1) for her sister (1.1.1)
-Type (2) for her stepfather (1.1.2)
+1#1.1#Loud cars. Bright lights. It's a busy night in the city. {Gender} was looking for someone. {Gender} makes a short call which drove {Gender} crazily mad.# Who was {Character} talking to? Type (1) for her sister Type (2) for her stepfather# 2#5
 
-Scene-1/ 1.1.1
-{Character}'s sister is recently divorced. Her husband has always been that handsome bastard nobody liked. He was rich, and her father was greedy. You get the combination.
-She called {character} to pass the news that she got divorced, which made {character} relieved. But then she told {character} she was to end her life.
-Since {character} was troubled looking for the man, {gender} told her to cut off the silly talk and hung up immediately.
-Who is the man {character} was looking for?
-(1) a dual spy
-(2) a hairdresser
+2#1.1.1#{Character}'s sister is recently divorced. Her husband has always been that handsome bastard nobody liked. He was rich, and her father was greedy. You get the combination. She called {character} to pass the news that she got divorced, which made {character} relieved. But then she told {character} she was to end her life.Since {character} was troubled looking for the man, {gender} told her to cut off the silly talk and hung up immediately. Who is the man {character} was looking for?#(1) a dual spy (2) a hairdresser# 3#4
 
+3#1.1.1.1#After {character} hung up the phone. {Gender} kept walking through the dark, gloomy suburbs when suddenly {Gender} was hit hard on the head... and passed out. (2)###
 
+4#1.1.1.2#{Character}'s hair needs to be styled. The thing is, {Gender} has an appointment with a stout business man after an hour. {Gender} had a deal with her favourite hairdresser who moved his hair saloon somewhere new. {Character}'s navigational skills suck, so {Gender} couldn't find the beauty saloon. {Gender} had to go to the businessman but when she arrived at the company, {Gender} was literally bitten by a dog. Then {Gender} fell hard on the ground and passed out ... (2)###
 
-Scene-1/ 1.1.1.1
-After {character} hung up the phone. {Gender} kept walking through the dark, gloomy suburbs when suddenly {Gender} was hit hard on the head... and passed out.
+5#1.1.2#He wants {character} back home. He needs someone to serve him, as he is penniless and drunken. The typical stepfather style he used with {character} was not any amicable. And {Gender} needn't take that anymore. {Gender} hung up the phone and dropped it on the ground. It was a new iPhone. While {Gender} was cursing the day {Gender} saw that brainless man-ish stepfather, {Gender} bumped into one of the street lights. It was over, {Gender} will not keep looking for that stupid old shopkeeper anyway. He wouldn't apologize for giving her rotten beef anyways.(2)###
 
-Scene-1/ 1.1.1.2
-{Character}'s hair needs to be styled. The thing is, {Gender} has an appointment with a stout business man after an hour. 
-{Gender} had a deal with her favourite hairdresser who moved his hair saloon somewhere new. 
-{Character}'s navigational skills suck, so {Gender} couldn't find the beauty saloon. 
-{Gender} had to go to the businessman but when she arrived at the company, {Gender} was literally bitten by a dog. Then {Gender} fell hard on the ground and passed out ...
+6#1.2#{Character} wakes up not remembering what happened last night. However, {Gender} finds a pen and paper beside the bed, and tries to remember anything. {Gender} does remember one thing, and writes a single word.#What is that word?Type (1) heaven.Type (2) pizza.###
 
-Scene-1/ 1.1.2
-He wants {character} back home. He needs someone to serve him, as he is penniless and drunken. 
-The typical stepfather style he used with {character} was not any amicable. And {Gender} needn't take that anymore.
-{Gender} hung up the phone and dropped it on the ground. It was a new iPhone. 
-While {Gender} was cursing the day {Gender} saw that brainless man-ish stepfather, {Gender} bumped into one of the street lights. 
-It was over, {Gender} will not keep looking for that stupid old shopkeeper anyway. He wouldn't apologize for giving her rotten beef anyways.
-
-Scene-1/ 1.2
-{Character} wakes up not remembering what happened last night. However, {Gender} finds a pen and paper beside the bed, and tries to remember anything. {Gender} does remember one thing, and writes a single word.
-What is that word? 
-(1) heaven
-(2) pizza
-
-Scene-1/ 1.2.1
-"Heaven, I'm in heaven .. And my heart beats so that I can hardly speak... And I seem to find the happiness I seek when we're out together dancing cheek to cheek.
-" That song rang in {character}'s mind. It was a wedding, a tall man and {character}'s best friend.
-Scene-2/ 2 
-
-
+7#1.2.1#"Heaven, I'm in heaven .. And my heart beats so that I can hardly speak... And I seem to find the happiness I seek when we're out together dancing cheek to cheek." That song rang in {character}'s mind. It was a wedding, a tall man and {character}'s best friend.###
