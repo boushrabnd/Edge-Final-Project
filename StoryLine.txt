@@ -1,0 +1,11 @@
+
+Scene-0/ {Character} woke up this morning, after having a terrible nightmare, feeling dizzy and unstable. {Gender} tried to remember what happened the night before.
+Will {gender} remember?
+Type (1) for yes or (2) for no
+
+Scene-1/ 1.1 Loud cars. Bright lights. It's a busy night in the city. {Gender} was looking for someone. {Gender} makes a short call which drove {Gender} crazily mad. 
+Who was {Character} talking to?
+Type (1) for her sister
+Type (2) for her stepfather
+
+Scene-1/ 1.2 
